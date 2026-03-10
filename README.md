@@ -103,12 +103,15 @@ Built a full membership platform with a custom FSE block theme, MemberPress subs
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZiyadHanif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080c&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8"/>
-<img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZiyadHanif&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080c&title_color=38bdf8&text_color=94a3b8"/>
+[![ZiyadHanif's GitHub](https://img.shields.io/badge/GitHub-ZiyadHanif-38bdf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZiyadHanif)
+
+![PHP](https://img.shields.io/badge/Primary_Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Also_Writes-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/Also_Writes-CSS%2FSASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 </div>
 
