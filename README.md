@@ -107,8 +107,8 @@ Built a full membership platform with a custom FSE block theme, MemberPress subs
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ZiyadHanif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080c&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8"/>
-<img height="175" src="https://streak-stats.demolab.com/?user=ZiyadHanif&theme=tokyonight&hide_border=true&background=06080c&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8"/>
+<img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZiyadHanif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=06080c&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8"/>
+<img height="175" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZiyadHanif&layout=compact&theme=tokyonight&hide_border=true&bg_color=06080c&title_color=38bdf8&text_color=94a3b8"/>
 
 </div>
 
