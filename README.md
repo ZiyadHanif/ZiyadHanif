@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06080c,40:0c1829,100:06080c&height=200&section=header&text=WordPress+Engineer+%26+Revenue+Architect&fontSize=30&fontColor=38bdf8&fontAlignY=40&desc=I+don%27t+build+websites+%E2%80%94+I+build+revenue+engines.&descAlignY=60&descSize=15&descColor=64748b" width="100%"/>
+# ⚡ Ziyad Hanif
+## WordPress Engineer · WooCommerce Architect · AI Integrator
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=6%2B+Years+Building+WordPress+Revenue+Engines;WooCommerce+%7C+Custom+Plugins+%7C+AI+Integration;PSR-12+%7C+Redis+%7C+95%2B+PageSpeed+%7C+SEO-First;Your+site+should+make+you+money.+Mine+do.)
 
@@ -125,10 +126,8 @@ Built a full membership platform with a custom FSE block theme, MemberPress subs
 
 > *"I don't do cookie-cutter. Every project gets a custom strategy, clean architecture, and a clear path to ROI."*
 
-</div>
-
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06080c,50:0c1829,100:06080c&height=100&section=footer&text=Available+for+Freelance+%26+Full-Time&fontSize=14&fontColor=38bdf8&fontAlignY=70" width="100%"/>
+![Footer](https://img.shields.io/badge/Available_for_Freelance_%26_Full--Time_Roles-38bdf8?style=for-the-badge&logoColor=white)
+
 </div>
