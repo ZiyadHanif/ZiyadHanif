@@ -1,12 +1,13 @@
 <div align="center">
 
 # ⚡ Ziyad Hanif
-## WordPress Engineer · WooCommerce Architect · AI Integrator
+## WordPress Engineer · Team Lead · WooCommerce Architect · AI Integrator
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=6%2B+Years+Building+WordPress+Revenue+Engines;WooCommerce+%7C+Custom+Plugins+%7C+AI+Integration;PSR-12+%7C+Redis+%7C+95%2B+PageSpeed+%7C+SEO-First;Your+site+should+make+you+money.+Mine+do.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=6%2B+Years+Building+WordPress+Revenue+Engines;Team+Lead+%7C+Technical+Expert+%7C+Client+Champion;WooCommerce+%7C+Custom+Plugins+%7C+AI+Integration;Your+site+should+make+you+money.+Mine+do.)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZiyadHanif&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
 ![WordPress](https://img.shields.io/badge/WordPress-Expert-21759b?style=for-the-badge&logo=wordpress&logoColor=white)
+![Team Lead](https://img.shields.io/badge/Team_Lead-5%2B_Years-f97316?style=for-the-badge)
 ![Available](https://img.shields.io/badge/Available_for_Hire-%E2%9C%85_Open-16a34a?style=for-the-badge)
 
 </div>
@@ -15,11 +16,21 @@
 
 ## 🧠 Who I Am
 
-> **I'm a WordPress Engineer with 6+ years** building custom plugins, WooCommerce architectures, AI-powered automation, and conversion-obsessed UIs that generate **measurable revenue** — not just digital brochures.
+> **I'm a WordPress Engineer and Team Lead with 6+ years** building custom plugins, WooCommerce architectures, AI-powered automation, and conversion-obsessed UIs that generate **measurable revenue** — not just digital brochures.
+
+Over 5+ years I've worn multiple hats: **Team Lead** directing developers and designers, **Technical Expert** architecting complex WordPress solutions, **WordPress Developer** writing clean PSR-12 OOP code, and **Customer Support Specialist** who knows how to translate client pain into working features. I don't just build — I lead, communicate, and deliver.
 
 My builds achieve **sub-1.5s load times**, **95+ PageSpeed scores**, and **<50 DB queries/page** using Redis caching, Nginx FastCGI, and PSR-12 compliant OOP architecture. Technical SEO — schema markup, Core Web Vitals, canonical URLs — is standard, not optional.
 
-**If you need a theme installed, I'm not your person. If you need a revenue engine built, let's talk.**
+**If you need a theme installed, I'm not your person. If you need a revenue engine built and a team to back it up, let's talk.**
+
+---
+
+## 👔 Experience & Roles
+
+| 🧑‍💼 Team Lead | 🔧 Technical Expert | 💻 WordPress Developer | 🎧 Customer Support |
+|:---:|:---:|:---:|:---:|
+| Led cross-functional dev teams, sprint planning, code reviews, delivery management | WordPress architecture, plugin systems, performance audits, security hardening | Custom themes, plugins, WooCommerce, AI integrations, REST APIs | Direct client communication, requirement gathering, issue resolution, satisfaction guarantee |
 
 ---
 
@@ -44,6 +55,35 @@ My builds achieve **sub-1.5s load times**, **95+ PageSpeed scores**, and **<50 D
 ![PHP](https://img.shields.io/badge/PHP_8.1+-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ACF](https://img.shields.io/badge/ACF_Pro-00B9F1?style=for-the-badge)
+![WP CLI](https://img.shields.io/badge/WP--CLI-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Page Builders & Visual Editors**
+
+![Elementor](https://img.shields.io/badge/Elementor_Pro-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Avada](https://img.shields.io/badge/Avada_Theme-4353FF?style=for-the-badge)
+![Divi](https://img.shields.io/badge/Divi_Builder-8C43AB?style=for-the-badge)
+![Beaver Builder](https://img.shields.io/badge/Beaver_Builder-74A9D8?style=for-the-badge)
+![WPBakery](https://img.shields.io/badge/WPBakery-0070E0?style=for-the-badge)
+![Oxygen](https://img.shields.io/badge/Oxygen_Builder-32B9FF?style=for-the-badge)
+![Bricks](https://img.shields.io/badge/Bricks_Builder-FF6B35?style=for-the-badge)
+![UX Builder](https://img.shields.io/badge/UX_Builder-E6B800?style=for-the-badge)
+
+**Must-Have Plugin Stack**
+
+![Yoast SEO](https://img.shields.io/badge/Yoast_SEO-A4286A?style=for-the-badge)
+![RankMath](https://img.shields.io/badge/Rank_Math_SEO-ED4A22?style=for-the-badge)
+![WPML](https://img.shields.io/badge/WPML-0078D4?style=for-the-badge)
+![Polylang](https://img.shields.io/badge/Polylang-00A0D2?style=for-the-badge)
+![WP Rocket](https://img.shields.io/badge/WP_Rocket-FF6B35?style=for-the-badge)
+![WP Super Cache](https://img.shields.io/badge/WP_Super_Cache-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wordfence](https://img.shields.io/badge/Wordfence-00B9F1?style=for-the-badge)
+![iThemes Security](https://img.shields.io/badge/iThemes_Security-007CBA?style=for-the-badge)
+![UpdraftPlus](https://img.shields.io/badge/UpdraftPlus-2C9AB7?style=for-the-badge)
+![Gravity Forms](https://img.shields.io/badge/Gravity_Forms-FF6B35?style=for-the-badge)
+![CF7](https://img.shields.io/badge/Contact_Form_7-FF0000?style=for-the-badge)
+![MemberPress](https://img.shields.io/badge/MemberPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![LearnDash](https://img.shields.io/badge/LearnDash-E87722?style=for-the-badge)
+![BuddyPress](https://img.shields.io/badge/BuddyPress-D84800?style=for-the-badge)
 
 **Frontend & Build Tools**
 
@@ -51,12 +91,14 @@ My builds achieve **sub-1.5s load times**, **95+ PageSpeed scores**, and **<50 D
 ![React](https://img.shields.io/badge/React_(Block_Dev)-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **AI & Payments**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge)
 ![Stripe](https://img.shields.io/badge/Stripe_Connect-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white)
 
 **Performance & DevOps**
 
@@ -65,6 +107,7 @@ My builds achieve **sub-1.5s load times**, **95+ PageSpeed scores**, and **<50 D
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -75,7 +118,7 @@ My builds achieve **sub-1.5s load times**, **95+ PageSpeed scores**, and **<50 D
 
 > *"Five months in, this wholesale fashion platform went from $40K/mo to $210K/mo — not from more ads, but from a site that finally converted."*
 
-Cart abandonment was 74%. Vendor onboarding took 3 days manually. Checkout converted below 1%. I rebuilt the platform with a custom namespaced PHP plugin for automated vendor onboarding, a single-page checkout with smart upsell hooks, Stripe Connect for automatic commission splits, Redis + Nginx for a 41→94 PageSpeed jump, and a mobile-first conversion-focused UI rebuild.
+Cart abandonment was 74%. Vendor onboarding took 3 days manually. Checkout converted below 1%. As **technical lead**, I rebuilt the platform with a custom namespaced PHP plugin for automated vendor onboarding, a single-page checkout with smart upsell hooks, Stripe Connect for automatic commission splits, Redis + Nginx for a 41→94 PageSpeed jump, and a mobile-first conversion-focused UI rebuild.
 
 **`5× Revenue`** · **`−45% Cart Abandonment`** · **`92% Faster Onboarding`** · **`94 PageSpeed`**
 
@@ -93,7 +136,7 @@ $18,000/month on writers. 8 articles/month. 3-week turnaround. I built a namespa
 ---
 
 ### 🎨 CS 03 — Luxury Coaching Platform: $0 → $28K MRR in 10 Weeks
-**Stack:** Custom Block Theme · ACF Pro Flexible Content · MemberPress · WooCommerce · Cloudflare
+**Stack:** Custom Block Theme · ACF Pro · MemberPress · WooCommerce · Elementor Pro · Cloudflare
 
 > *"She had 40,000 Instagram followers and a Squarespace page. Ten weeks later: $28K MRR."*
 
